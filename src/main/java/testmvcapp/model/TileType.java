@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Enum.java to edit this template
  */
 
-package testmvcapp;
+package testmvcapp.model;
 
 public enum TileType {
     EMPTY, PLAYER, WALL, GOAL

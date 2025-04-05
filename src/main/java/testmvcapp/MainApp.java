@@ -8,9 +8,10 @@ import java.net.URL;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-// import model.GameModel;
-// import model.TileType;
-// import view.GameView;
+import testmvcapp.model.GameModel;
+import testmvcapp.model.TileType;
+import testmvcapp.view.GameView;
+import testmvcapp.controller.GameController;
 
 public class MainApp extends Application {
 

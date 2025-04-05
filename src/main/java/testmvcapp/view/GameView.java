@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package testmvcapp;
+package testmvcapp.view;
 
 import java.io.File;
 import java.io.InputStream;
@@ -10,7 +10,7 @@ import java.net.URL;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.GridPane;
-// import com.javalessons.testmvcapp.TileType;
+import testmvcapp.model.TileType;
 
 public class GameView extends GridPane {
     

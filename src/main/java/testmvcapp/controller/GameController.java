@@ -1,4 +1,4 @@
-package testmvcapp;
+package testmvcapp.controller;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -10,7 +10,9 @@ package testmvcapp;
 // import javafx.scene.Scene;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
-// import view.GameView;
+import testmvcapp.view.GameView;
+import testmvcapp.model.GameModel;
+import testmvcapp.model.TileType;
 
 public class GameController {
     private final GameModel model;

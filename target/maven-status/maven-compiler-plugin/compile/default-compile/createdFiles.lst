@@ -1,8 +1,8 @@
-testmvcapp/GameView$1.class
+testmvcapp/model/GameModel.class
+testmvcapp/model/TileType.class
 testmvcapp/MainApp.class
 module-info.class
-testmvcapp/GameView.class
 testmvcapp/SystemInfo.class
-testmvcapp/TileType.class
-testmvcapp/GameController.class
-testmvcapp/GameModel.class
+testmvcapp/controller/GameController.class
+testmvcapp/view/GameView$1.class
+testmvcapp/view/GameView.class
